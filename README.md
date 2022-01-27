@@ -10,8 +10,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](screen-shots\Screen Shot 2022-01-27 at 23.35.46.png)
-![](screen-shots\Screen Shot 2022-01-27 at 23.36.03.png)
+![]screen-shots\Screen Shot 2022-01-27 at 23.35.46.png)
+![]screen-shots\Screen Shot 2022-01-27 at 23.36.03.png)
 
 ### Links
 
